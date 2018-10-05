@@ -16,7 +16,7 @@ div#subtitle {
     position: absolute;
     top: 0px;
     left: 0px;
-    background: transparent;
+    background: rgba(0,0,0,0);
     font-family: "San Francisco",
         "Helvetica Neue", "Helvetica",
         Arial, Sans-Serif;
